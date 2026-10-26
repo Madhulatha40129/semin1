@@ -1,0 +1,23 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f4f8;
+}
+
+.container {
+  text-align: center;
+  margin: 30px;
+}
+
+h1 {
+  color: darkblue;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin: 15px auto;
+  max-width: 400px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px #ccc;
+}
